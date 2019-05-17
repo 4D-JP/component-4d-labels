@@ -21,12 +21,11 @@ Windows（アプリケーションフォルダー）
 
 誤
 
-![good](https://user-images.githubusercontent.com/10509075/57899704-fb6b8300-7898-11e9-8157-a82291ea7cb3.png)
-[label.pdf](https://github.com/4D-JP/component-4d-labels/files/3189711/label.pdf)
+![bad](https://user-images.githubusercontent.com/10509075/57899787-51402b00-7899-11e9-8ee9-5b19e5f628ed.png)
 
 正
 
-[label.pdf](https://github.com/4D-JP/component-4d-labels/files/3189709/label.pdf)
+![good](https://user-images.githubusercontent.com/10509075/57899704-fb6b8300-7898-11e9-8157-a82291ea7cb3.png)
 
 修正する箇所
 
