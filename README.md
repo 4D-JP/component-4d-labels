@@ -6,7 +6,7 @@
 Mac（アプリケーションパッケージ内）
 
 ```
-4D.app/Contents/Resources/Internal User Components/4D Labels.4dbase
+Contents/Resources/Internal User Components/4D Labels.4dbase
 ```
 
 Windows（アプリケーションフォルダー）
